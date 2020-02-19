@@ -1,0 +1,17 @@
+{
+  "name": "maratonadev",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": "https://github.com/joaoathaide/maratonadev.git",
+  "author": "João Paulo <joaovasques.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  }
+}
