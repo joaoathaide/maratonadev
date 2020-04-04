@@ -1,16 +1,16 @@
 <h1 align="center">MaratonaDev</h1>
 <p align="center">Projeto <strong>Doe sangue</strong> desenvolvido durante a MaratonaDev da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀</p>
 
-<div align="center">
-  <img src="./assets/doe.png" align="center"></img>
-</div>
-<br>
-
 <p align="center">
   <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+
+<div align="center">
+  <img src="./assets/doe.png" align="center"></img>
+</div>
+<br>
 
 ## 🚀 Instalação e execução
 
